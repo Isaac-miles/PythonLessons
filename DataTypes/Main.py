@@ -4,5 +4,3 @@ dataset = ['miles','Aaron','United',1]
 datasetA = ('miles','Aaron','United',1)
 
 st ="This is a word"
-for w in st:
-    print(w.upper())
