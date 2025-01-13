@@ -3,4 +3,7 @@ print(dictionary.get("M3","File not found"))
 dataset = ['miles','Aaron','United',1]
 datasetA = ('miles','Aaron','United',1)
 
-st ="This is a word"
+words ="This is a word"
+word = words.split(' ')
+for w in word:
+    print(w[-1])
