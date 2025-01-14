@@ -6,4 +6,4 @@ datasetA = ('miles','Aaron','United',1)
 words ="This is a word"
 word = words.split(' ')
 for w in word:
-    print(w[-1])
+    # print(w[-1])
