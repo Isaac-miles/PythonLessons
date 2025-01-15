@@ -10,6 +10,6 @@ while m <= 5:
     n=1
     while n <= 3:
         print("Scissors ", end="")
-        n= n+1
-m=m+1
-print()
+        n = n+1
+    m=m+1
+    print()
