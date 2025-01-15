@@ -7,3 +7,9 @@ words ="This is a word"
 word = words.split(' ')
 for w in word:
     print(w[-1])
+print(~12)
+
+a=5
+b=6
+a,b = b,a
+print(a, b)
