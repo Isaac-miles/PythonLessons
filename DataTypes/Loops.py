@@ -21,4 +21,4 @@ for name in listNames:
     print(name,end=" ")
 
 for i in range(4,16,2):
-    print(i)
+    # print(i)
