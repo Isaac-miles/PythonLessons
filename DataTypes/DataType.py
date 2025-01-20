@@ -26,3 +26,5 @@ new_list = [x for x in fruits if "a" in x]
 print(new_list)
 
 new_list_ = [x for x in fruits]
+new__list = [x if x != "banana" else "orange" for x in fruits]
+print(new__list)
