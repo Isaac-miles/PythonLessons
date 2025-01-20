@@ -1,1 +1,2 @@
-mytuple = ("apple", "banana", "cherry")
+my_tuple = ("apple", "banana", "cherry")
+print(len(my_tuple))
