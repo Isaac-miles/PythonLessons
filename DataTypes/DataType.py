@@ -20,6 +20,7 @@ for x in tha_list:
 
 #list comprehension
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+fruits.sort(key = str.lower)
 
 # [expression for item in iterable if condition == True]
 new_list = [x for x in fruits if "a" in x]
@@ -28,3 +29,7 @@ print(new_list)
 new_list_ = [x for x in fruits]
 new__list = [x if x != "banana" else "orange" for x in fruits]
 print(new__list)
+
+sort_Fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+sort_Fruits.sort(reverse = True)
+print(sort_Fruits)
