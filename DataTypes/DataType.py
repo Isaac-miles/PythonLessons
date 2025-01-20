@@ -21,6 +21,8 @@ for x in tha_list:
 #list comprehension
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 
-newlist = [x for x in fruits if "a" in x]
+# [expression for item in iterable if condition == True]
+new_list = [x for x in fruits if "a" in x]
+print(new_list)
 
-print(newlist)
+new_list_ = [x for x in fruits]
