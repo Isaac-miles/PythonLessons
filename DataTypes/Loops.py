@@ -14,6 +14,7 @@ while m <= 5:
     m=m+1
     print()
 
+
 # For loops
 listNames = ['Miles','Kelvin','Josiah']
 
@@ -23,10 +24,13 @@ for name in listNames:
 for i in range(4,16,2):
     print(i)
 
+for x in [0, 1, 2]:
+  pass
+
+#Nested loops
 adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 
-#Nested loops
 for x in adj:
   for y in fruits:
     print(x, y)
