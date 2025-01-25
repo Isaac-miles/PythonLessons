@@ -28,7 +28,7 @@ for x in [0, 1, 2]:
   pass
 
 #Nested loops
-adj = ["red", "big", "tasty"]
+# adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 
 for x in adj:
