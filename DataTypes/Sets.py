@@ -90,8 +90,24 @@ set6 = {"apple", "banana", "cherry"}
 set7 = {"google", "microsoft", "apple"}
 
 set6.difference_update(set7)
-print(set6)
+print("info",set6)
 
 # The symmetric_difference() method will keep only the elements that are NOT present in both sets.
 set8 = set6.symmetric_difference(set7)
-print("symetric diff", set8)
+print("symmetric diff", set8)
+
+# You can use the ^ operator instead of the symmetric_difference() method, and you will get the same result.
+set8 = set6^set7
+print("symmetric diff 2", set8)
+# Note: The ^ operator only allows you to join sets with sets, and not with other data types like you can with the symmetric_difference() method.
+
+"""
+The symmetric_difference_update() method will also keep all but the duplicates, but it will 
+change the original set instead of returning a new set.
+"""
+set9 = {"apple", "banana", "cherry"}
+set10 = {"google", "microsoft", "apple"}
+
+set9.symmetric_difference_update(set10)
+
+print(set9)
