@@ -28,3 +28,15 @@ print(my_set)
 my_set.pop()
 # clear set
 my_set.clear()
+
+"""
+There are several ways to join two or more sets in Python.
+
+The union() and update() methods joins all items from both sets.
+
+The intersection() method keeps ONLY the duplicates.
+
+The difference() method keeps the items from the first set that are not in the other set(s).
+
+The symmetric_difference() method keeps all items EXCEPT the duplicates.
+"""
