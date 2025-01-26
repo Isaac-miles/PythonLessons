@@ -6,4 +6,6 @@ this_dict = {
   "model": "Mustang",
   "year": 1964
 }
-
+# using the dict constructor
+my_dict = dict(name = "John", age = 36, country = "Norway")
+print(this_dict," and ",my_dict)
