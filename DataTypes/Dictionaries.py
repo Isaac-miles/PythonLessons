@@ -131,3 +131,10 @@ family = {
 }
 #To access items from a nested dictionary, you use the name of the dictionaries, starting with the outer dictionary:
 print(family["child2"]["name"])
+
+# loop through a nested dictionary:You can loop through a dictionary by using the items() method like this:
+for x, obj in family.items():
+  print(x)
+
+  for y in obj:
+    print(y + ':', obj[y])
