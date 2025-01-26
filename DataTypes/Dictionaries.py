@@ -70,5 +70,19 @@ that_dict = {
   "Age": 10,
   "Race": "Asian"
 }
+
+# The clear() method empties the dictionary:
+# that_dict.clear()
+
 del that_dict["Race"]
 print(that_dict)
+
+# The del keyword can also delete the dictionary completely:
+del that_dict
+
+# looping through a dict
+for x in this_dict:
+  print(this_dict[x])
+
+for k in this_dict.keys():
+    print(k)
