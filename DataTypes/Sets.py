@@ -70,3 +70,11 @@ setC = setA & setB
 
 # The intersection_update() method will also keep ONLY the duplicates, but it will change the original set instead of returning a new set.
 setA.intersection_update(setB)
+
+# Join sets that contains the values True, False, 1, and 0, and see what is considered as duplicates:
+setD = {"apple", 1,  "banana", 0, "cherry"}
+setE = {False, "google", 1, "apple", 2, True}
+
+setF = setD.intersection(setE)
+
+print(setF)
