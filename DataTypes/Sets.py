@@ -64,3 +64,6 @@ setB = {"google", "microsoft", "apple"}
 
 setC = setA.intersection(setB)
 print(setC)
+
+# you can use the & operator instead of intersect()
+setC = setA & setB
