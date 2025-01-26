@@ -94,3 +94,22 @@ for x in this_dict.values():
 
 for x, y in this_dict.items():
   print(x, y)
+
+"""
+Copy a Dictionary
+You cannot copy a dictionary simply by typing dict2 = dict1, because: dict2 will only be a reference to dict1,
+and changes made in dict1 will automatically also be made in dict2.
+
+There are ways to make a copy, one way is to use the built-in Dictionary method copy().
+"""
+
+comp_dict = {
+  "brand": "IT",
+  "model": "Professional services",
+  "year": 1964
+}
+company = comp_dict.copy()
+print(company)
+
+# Make a copy of a dictionary with the dict() function:
+comp = dict(company)
