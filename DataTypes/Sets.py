@@ -57,3 +57,10 @@ print("All sets",set5)
 # update method does not return a new set instead changes the original set
 set1.update(set5)
 print(set1)
+
+# The intersection() method will return a new set, that only contains the items that are present in both sets.
+setA = {"apple", "banana", "cherry"}
+setB = {"google", "microsoft", "apple"}
+
+setC = setA.intersection(setB)
+print(setC)
