@@ -18,3 +18,13 @@ print("After updating with another set",my_set)
 my_list = ["Miles","Josiah","Blessing"]
 my_set.update(my_list)
 print(my_set)
+
+# Removing Items
+my_set.remove("Blessing")
+my_set.discard("Miles")
+print(my_set)
+
+# removing random Items
+my_set.pop()
+# clear set
+my_set.clear()
