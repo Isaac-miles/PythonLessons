@@ -86,3 +86,11 @@ for x in this_dict:
 
 for k in this_dict.keys():
     print(k)
+
+for x in this_dict.values():
+  print(x)
+
+# Loop through both keys and values, by using the items() method:
+
+for x, y in thisdict.items():
+  print(x, y)
