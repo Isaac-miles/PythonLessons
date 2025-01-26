@@ -67,14 +67,6 @@
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
     </task>
-    <task id="LOCAL-00010" summary="python work space">
-      <option name="closed" value="true" />
-      <created>1736786088693</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1736786088693</updated>
-    </task>
     <task id="LOCAL-00011" summary="python work space">
       <option name="closed" value="true" />
       <created>1736786293424</created>
@@ -459,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737842536556</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="control statements">
+      <option name="closed" value="true" />
+      <created>1737895461271</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1737895461272</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
