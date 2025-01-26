@@ -39,3 +39,10 @@ print(x) #before the change
 car["year"] = 2020
 
 print(x) #after the change
+
+#Get Items
+#The items() method will return each item in a dictionary, as tuples in a list.
+print(this_dict.items())
+
+if "model" in this_dict:
+  print("Yes, 'model' is one of the keys in the thisdict dictionary")
