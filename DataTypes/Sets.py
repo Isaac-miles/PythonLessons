@@ -90,7 +90,6 @@ set6 = {"apple", "banana", "cherry"}
 set7 = {"google", "microsoft", "apple"}
 
 set6.difference_update(set7)
-
 print(set6)
 
 # The symmetric_difference() method will keep only the elements that are NOT present in both sets.
