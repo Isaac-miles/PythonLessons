@@ -41,9 +41,19 @@ The difference() method keeps the items from the first set that are not in the o
 The symmetric_difference() method keeps all items EXCEPT the duplicates.
 """
 
+# The union() method returns a new set from both set
 set1 = {"a", "b", "c"}
 set2 = {1, 2, 3}
 
 set3 = set1.union(set2)
 print(set3)
 # you can use the | operator in place of union()
+set4 = set3 | set2
+print(set4)
+
+set5 = set1.union(set2,set3,set4)
+print("All sets",set5)
+
+# update method does not return a new set instead changes the original set
+set1.update(set5)
+print(set1)
