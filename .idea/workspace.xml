@@ -73,30 +73,6 @@
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
     </task>
-    <task id="LOCAL-00045" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737389019069</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1737389019069</updated>
-    </task>
-    <task id="LOCAL-00046" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737389437854</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1737389437854</updated>
-    </task>
-    <task id="LOCAL-00047" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737389480130</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1737389480130</updated>
-    </task>
     <task id="LOCAL-00048" summary="control statements">
       <option name="closed" value="true" />
       <created>1737389483065</created>
@@ -465,7 +441,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737903584192</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="control statements">
+      <option name="closed" value="true" />
+      <created>1737903748997</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1737903748997</updated>
+    </task>
+    <task id="LOCAL-00095" summary="control statements">
+      <option name="closed" value="true" />
+      <created>1737903752202</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1737903752202</updated>
+    </task>
+    <task id="LOCAL-00096" summary="control statements">
+      <option name="closed" value="true" />
+      <created>1737903908877</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1737903908877</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
