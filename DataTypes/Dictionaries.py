@@ -92,5 +92,5 @@ for x in this_dict.values():
 
 # Loop through both keys and values, by using the items() method:
 
-for x, y in thisdict.items():
+for x, y in this_dict.items():
   print(x, y)
