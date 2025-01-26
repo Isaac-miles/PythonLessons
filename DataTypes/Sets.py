@@ -67,3 +67,6 @@ print(setC)
 
 # you can use the & operator instead of intersect()
 setC = setA & setB
+
+# The intersection_update() method will also keep ONLY the duplicates, but it will change the original set instead of returning a new set.
+setA.intersection_update(setB)
