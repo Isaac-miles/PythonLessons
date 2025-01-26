@@ -86,3 +86,13 @@ setH = setE.difference(setD)
 setH1 = setE - setD
 
 # The difference_update() method will also keep the items from the first set that are not in the other set, but it will change the original set instead of returning a new set.
+set6 = {"apple", "banana", "cherry"}
+set7 = {"google", "microsoft", "apple"}
+
+set6.difference_update(set7)
+
+print(set6)
+
+# The symmetric_difference() method will keep only the elements that are NOT present in both sets.
+set8 = set6.symmetric_difference(set7)
+print("symetric diff", set8)
