@@ -113,3 +113,6 @@ print(company)
 
 # Make a copy of a dictionary with the dict() function:
 comp = dict(company)
+
+# Nested dictionaries: A dictionary can contain dictionaries, this is called nested dictionaries.
+
