@@ -58,3 +58,17 @@ this_dict.update({"brand": "BMW"})
 this_dict["city"] = "london"
 this_dict.update({"owner": "Miles"})
 print(this_dict)
+
+# Removing items
+this_dict.pop("model")
+# The popitem() method removes the last inserted item (in versions before 3.7, a random item is removed instead)
+this_dict.popitem()
+
+# The del keyword removes the item with the specified key name:
+that_dict = {
+  "Name": "Miles",
+  "Age": 10,
+  "Race": "Asian"
+}
+del that_dict["Race"]
+print(that_dict)
