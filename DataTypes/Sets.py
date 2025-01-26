@@ -78,3 +78,11 @@ setE = {False, "google", 1, "apple", 2, True}
 setF = setD.intersection(setE)
 
 print(setF)
+
+#The difference() method will return a new set that will contain only the items from the first set that are not present in the other set.
+setH = setE.difference(setD)
+
+#You can use the - operator instead of the difference() method, and you will get the same result.
+setH1 = setE - setD
+
+# The difference_update() method will also keep the items from the first set that are not in the other set, but it will change the original set instead of returning a new set.
