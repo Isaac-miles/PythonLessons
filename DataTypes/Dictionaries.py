@@ -15,7 +15,6 @@ print(this_dict['model'])  #throws an error when an item is not found
 print(this_dict.get("models","I didn't see it")) #returns non when an item is not found or an optional value supplied
 
 print(this_dict.keys()) # keys method returns all the keys in the dictionary
-print(this_dict.values()) # values method returns all the values in the dictionary
 
 #Add a new item to the original dictionary, and see that the keys list gets updated as well:
 
@@ -26,9 +25,17 @@ car = {
 }
 
 x = car.keys()
+print(x) #before the change
+car["color"] = "white"
+print(x) #after the change the key list gets updated
+
+#values method returns all the values in the dictionary
+#Make a change in the original dictionary, and see that the values list gets updated as well:
+
+x = car.values()
 
 print(x) #before the change
 
-car["color"] = "white"
+car["year"] = 2020
 
 print(x) #after the change
