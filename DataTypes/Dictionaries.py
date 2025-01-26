@@ -45,4 +45,16 @@ print(x) #after the change
 print(this_dict.items())
 
 if "model" in this_dict:
-  print("Yes, 'model' is one of the keys in the thisdict dictionary")
+  print("Yes, 'model' is one of the keys in the this_dict dictionary")
+
+# changing values
+this_dict["year"] = 2018
+
+#The update() method will update the dictionary with the items from the given argument.
+#The argument must be a dictionary, or an iterable object with key:value pairs.
+this_dict.update({"brand": "BMW"})
+
+# Adding Items
+this_dict["city"] = "london"
+this_dict.update({"owner": "Miles"})
+print(this_dict)
