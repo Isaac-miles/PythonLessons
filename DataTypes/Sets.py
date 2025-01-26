@@ -14,3 +14,7 @@ my_set.add("mango")
 tropical = {"pineapple", "orange", "papaya"}
 my_set.update(tropical)
 print("After updating with another set",my_set)
+
+my_list = ["Miles","Josiah","Blessing"]
+my_set.update(my_list)
+print(my_set)
