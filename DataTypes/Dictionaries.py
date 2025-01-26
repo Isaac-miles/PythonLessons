@@ -115,4 +115,19 @@ print(company)
 comp = dict(company)
 
 # Nested dictionaries: A dictionary can contain dictionaries, this is called nested dictionaries.
-
+family = {
+  "child1" : {
+    "name" : "Emil",
+    "year" : 2004
+  },
+  "child2" : {
+    "name" : "Tobias",
+    "year" : 2007
+  },
+  "child3" : {
+    "name" : "Linus",
+    "year" : 2011
+  }
+}
+#To access items from a nested dictionary, you use the name of the dictionaries, starting with the outer dictionary:
+print(family["child2"]["name"])
