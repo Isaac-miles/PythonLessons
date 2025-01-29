@@ -137,4 +137,4 @@ for x, obj in family.items():
   print(x)
 
   for y in obj:
-    print(y + ':', obj[y]);
+    print(y + ':', obj[y])
