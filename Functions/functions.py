@@ -1,3 +1,3 @@
 
 def myFunction(name):
-    print(f"value recived is {name}")
+    print(f"value received is {name}")
