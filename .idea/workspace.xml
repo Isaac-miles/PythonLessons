@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="data types">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +45,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataTypeExercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DataType.executor": "Run",
+    "Python.DataTypeExercise.executor": "Run",
+    "Python.Dictionaries.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Sets.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.functions.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,46 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00073" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737901656342</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1737901656342</updated>
-    </task>
-    <task id="LOCAL-00074" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737901659093</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1737901659094</updated>
-    </task>
-    <task id="LOCAL-00075" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737901747381</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1737901747381</updated>
-    </task>
-    <task id="LOCAL-00076" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737901831677</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1737901831677</updated>
-    </task>
-    <task id="LOCAL-00077" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737901962713</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1737901962713</updated>
     </task>
     <task id="LOCAL-00078" summary="control statements">
       <option name="closed" value="true" />
@@ -466,7 +428,47 @@
       <option name="project" value="LOCAL" />
       <updated>1738216152608</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738593101161</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1738593101163</updated>
+    </task>
+    <task id="LOCAL-00123" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738593105014</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1738593105014</updated>
+    </task>
+    <task id="LOCAL-00124" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738593218449</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1738593218449</updated>
+    </task>
+    <task id="LOCAL-00125" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738593228683</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1738593228683</updated>
+    </task>
+    <task id="LOCAL-00126" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738593249027</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1738593249027</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
