@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="data types">
-      <change beforePath="$PROJECT_DIR$/DataTypes/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +44,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DataType.executor": "Run",
-    "Python.DataTypeExercise.executor": "Run",
-    "Python.Dictionaries.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.Sets.executor": "Run",
-    "Python.Tuples.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypeExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
