@@ -18,7 +18,6 @@ tha_list = ["apple", "banana", "cherry"]
 for x in tha_list:
   print(x)
 
-#list comprehension
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 fruits.sort(key = str.lower)
 
