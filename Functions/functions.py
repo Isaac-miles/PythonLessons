@@ -13,6 +13,7 @@ def my_function(*kids):
 
 my_function("Emil", "Tobias", "Linus")
 
+#You can also send arguments with the key = value syntax.
 def my_function(child3, child2, child1):
   print("The youngest child is " + child3)
 
