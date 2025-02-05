@@ -20,3 +20,7 @@ def my_function(child3, child2, child1):
 my_function(child1 = "Emil", child2 = "Tobias", child3 = "Linus")
 
 # If the number of keyword arguments is unknown, add a double ** before the parameter name:
+def my_function(**kid):
+  print("His last name is " + kid["lname"])
+
+my_function(fname = "Tobias", lname = "Refsnes")
