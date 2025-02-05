@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="data types">
-      <change afterPath="$PROJECT_DIR$/SimpleInterest/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List.py" afterDir="false" />
-    </list>
+    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="data types" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,30 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00080" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737902363975</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1737902363975</updated>
-    </task>
-    <task id="LOCAL-00081" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737902367071</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1737902367071</updated>
-    </task>
-    <task id="LOCAL-00082" summary="control statements">
-      <option name="closed" value="true" />
-      <created>1737902441206</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1737902441206</updated>
     </task>
     <task id="LOCAL-00083" summary="control statements">
       <option name="closed" value="true" />
@@ -469,7 +441,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738594624076</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738695755546</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1738695755547</updated>
+    </task>
+    <task id="LOCAL-00130" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738695759503</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1738695759503</updated>
+    </task>
+    <task id="LOCAL-00131" summary="data types">
+      <option name="closed" value="true" />
+      <created>1738695765364</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1738695765364</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
