@@ -23,7 +23,7 @@ my_function(child1 = "Emil", child2 = "Tobias", child3 = "Linus")
 def my_function(**kid):
   print("His last name is " + kid["lname"])
 
-my_function(fname = "Tobias", lname = "Refsnes")
+my_function(fname = "Tobias", lname = "Ref")
 
 # You can specify that a function can have ONLY positional arguments, or ONLY keyword arguments.
 # To specify that a function can have only positional arguments, add , / after the arguments:
