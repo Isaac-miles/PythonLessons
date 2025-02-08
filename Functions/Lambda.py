@@ -11,3 +11,10 @@ print(x(5,7))
 
 y= lambda  a,b,c: a+b+c
 print(y(4,6,2))
+
+def myFunc(n):
+    return lambda a:a*n
+
+multi = myFunc(2)
+
+print(multi(11))
