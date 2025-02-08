@@ -8,3 +8,6 @@ print(x(5))
 # lambda function can take any number f arguements:
 x = lambda a,b: a*b
 print(x(5,7))
+
+y= lambda  a,b,c: a+b+c
+print(y(4,6,2))
