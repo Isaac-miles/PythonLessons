@@ -37,3 +37,6 @@ def my_function(*, x):
   print(x)
 
 my_function(x = 3)
+
+# You can combine the two argument types in the same function.
+# Any argument before the / , are positional-only, and any argument after the *, are keyword-only.
