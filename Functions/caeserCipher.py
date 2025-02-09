@@ -17,3 +17,5 @@ encrypted_text =""
 def encrypt_message(original_text,shift_amount):
     for letter in original_text:
         shifted_position = alphabets.index(letter)+ shift
+        shifted_position = shifted_position % len(alphabets)
+        cipher_text = alphabets[shifted_position]
