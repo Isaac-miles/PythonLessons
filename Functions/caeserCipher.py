@@ -7,9 +7,9 @@ chr(i): Converts the ASCII value back to its corresponding character.
 List comprehension: Creates a list of characters from 'A' to 'Z'."""
 
 alphabets = [chr(i) for i in range(ord('a'), ord('z')+1)]
-print(alphabets)
+alphabets.append(' ')
 action = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
-text = input("Enter the message you want to encrypt\n")
+text = input("Enter the message you want to encrypt\n").lower()
 shift = int(input("enter the number of shift\n"))
 
 def encrypt_message(original_text,shift_amount):
