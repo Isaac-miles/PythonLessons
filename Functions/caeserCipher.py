@@ -10,4 +10,5 @@ alphabets = [chr(i) for i in range(ord('A'), ord('Z')+1)]
 print(alphabets[4])
 
 action = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
-original_text = input("Enter the message you want to encrypt")
+original_text = input("Enter the message you want to encrypt\n")
+shift = input("enter the number of shift\n")
