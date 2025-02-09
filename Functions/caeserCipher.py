@@ -15,7 +15,7 @@ shift = int(input("enter the number of shift\n"))
 def encrypt_message(original_text,shift_amount):
     encrypted_text = ""
     for letter in original_text:
-        shifted_position = alphabets.index(letter)+ shift
+        shifted_position = alphabets.index(letter) + shift
         shifted_position %= len(alphabets)
         encrypted_text = alphabets[shifted_position]
     print(encrypted_text)
