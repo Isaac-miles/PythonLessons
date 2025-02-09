@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="lambda functions" />
+    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,30 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00113" summary="data types">
-      <option name="closed" value="true" />
-      <created>1737917286754</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1737917286754</updated>
-    </task>
-    <task id="LOCAL-00114" summary="data types">
-      <option name="closed" value="true" />
-      <created>1737917420937</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1737917420937</updated>
-    </task>
-    <task id="LOCAL-00115" summary="data types">
-      <option name="closed" value="true" />
-      <created>1737917695650</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1737917695650</updated>
     </task>
     <task id="LOCAL-00116" summary="data types">
       <option name="closed" value="true" />
@@ -466,7 +442,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739118604680</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="classes">
+      <option name="closed" value="true" />
+      <created>1739119109697</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1739119109697</updated>
+    </task>
+    <task id="LOCAL-00163" summary="classes">
+      <option name="closed" value="true" />
+      <created>1739119113390</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1739119113390</updated>
+    </task>
+    <task id="LOCAL-00164" summary="classes">
+      <option name="closed" value="true" />
+      <created>1739119189365</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1739119189366</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -475,6 +475,7 @@
     <MESSAGE value="data types" />
     <MESSAGE value="functions" />
     <MESSAGE value="lambda functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda functions" />
+    <MESSAGE value="classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes" />
   </component>
 </project>
