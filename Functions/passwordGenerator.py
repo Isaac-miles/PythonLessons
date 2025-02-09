@@ -43,7 +43,7 @@ print(f"after shuffling {password}")
 new_password=""
 for char in password:
     new_password+=char
-print(new_password)
+print(f"sign up complete, your new password = {new_password}")
 
 
 
