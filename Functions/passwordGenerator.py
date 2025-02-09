@@ -32,6 +32,12 @@ for char in range(0, nr_letters):
 for symb in range(0, nr_symbols):
     password.append(random.choice(symbols))
 
+for num in range(0,nr_numbers):
+    password.append(random.choice(numbers))
+
+print(f"before shuffling {password}")
+random.shuffle(password)
+print(f"after shuffling {password}")
 
 
 
