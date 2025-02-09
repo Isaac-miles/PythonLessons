@@ -12,9 +12,10 @@ action = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
 text = input("Enter the message you want to encrypt\n")
 shift = int(input("enter the number of shift\n"))
 
-encrypted_text =""
 def encrypt_message(original_text,shift_amount):
+    encrypted_text = ""
     for letter in original_text:
         shifted_position = alphabets.index(letter)+ shift
         shifted_position %= len(alphabets)
-        cipher_text = alphabets[shifted_position]
+        encrypted_text = alphabets[shifted_position]
+    print(encrypted_text)
