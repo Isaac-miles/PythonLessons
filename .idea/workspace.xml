@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="lambda functions">
-      <change beforePath="$PROJECT_DIR$/Functions/Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,22 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00108" summary="data types">
-      <option name="closed" value="true" />
-      <created>1737916100855</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1737916100855</updated>
-    </task>
-    <task id="LOCAL-00109" summary="data types">
-      <option name="closed" value="true" />
-      <created>1737916560200</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1737916560200</updated>
     </task>
     <task id="LOCAL-00110" summary="data types">
       <option name="closed" value="true" />
@@ -468,7 +452,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739047975090</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="lambda functions">
+      <option name="closed" value="true" />
+      <created>1739048217100</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1739048217100</updated>
+    </task>
+    <task id="LOCAL-00158" summary="lambda functions">
+      <option name="closed" value="true" />
+      <created>1739048219734</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1739048219734</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
