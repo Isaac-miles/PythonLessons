@@ -11,4 +11,4 @@ class Person:
         self.age=age
 
 miles = Person("Isaac",50)
-print(miles.name)
+print(f"{miles.name} aged {miles.age}")
