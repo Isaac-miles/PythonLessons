@@ -39,6 +39,11 @@ print(f"before shuffling {password}")
 random.shuffle(password)
 print(f"after shuffling {password}")
 
+#generate the password
+new_password=""
+for char in password:
+    new_password+=char
+print(new_password)
 
 
 
