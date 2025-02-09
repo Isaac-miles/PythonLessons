@@ -29,6 +29,9 @@ password = []
 for char in range(0, nr_letters):
     password.append(random.choice(letters))
 
+for symb in range(0, nr_symbols):
+    password.append(random.choice(symbols))
+
 
 
 
