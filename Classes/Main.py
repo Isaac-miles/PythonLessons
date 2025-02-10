@@ -12,7 +12,10 @@ class Person:
     # the __str__() function controlls what should be returned when the class object is represented as a string
     def __str__(self):
         return f"username is {self.name} aged {self.age}"
+    def updateUsername(self,name):
+        self.name = name
 
 miles = Person("Isaac",50)
 # print(f"{miles.name} aged {miles.age}")
+miles.updateUsername("Helene")
 print(miles)
