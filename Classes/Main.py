@@ -26,3 +26,4 @@ print(miles)
 
 #update object property
 miles.age = 13
+# delete object properties
