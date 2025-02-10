@@ -23,3 +23,6 @@ miles = Person("Isaac",50)
 # print(f"{miles.name} aged {miles.age}")
 miles.updateUsername("Helene")
 print(miles)
+
+#update object property
+miles.age = 13
