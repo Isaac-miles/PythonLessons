@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes">
-      <change beforePath="$PROJECT_DIR$/Functions/caeserCipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/caeserCipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,30 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00137" summary="functions">
-      <option name="closed" value="true" />
-      <created>1738789726408</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1738789726408</updated>
-    </task>
-    <task id="LOCAL-00138" summary="functions">
-      <option name="closed" value="true" />
-      <created>1738789743931</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1738789743931</updated>
-    </task>
-    <task id="LOCAL-00139" summary="functions">
-      <option name="closed" value="true" />
-      <created>1738789812599</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1738789812599</updated>
     </task>
     <task id="LOCAL-00140" summary="functions">
       <option name="closed" value="true" />
@@ -470,7 +446,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739137084820</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="classes">
+      <option name="closed" value="true" />
+      <created>1739137519826</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137519826</updated>
+    </task>
+    <task id="LOCAL-00187" summary="classes">
+      <option name="closed" value="true" />
+      <created>1739137523012</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1739137523012</updated>
+    </task>
+    <task id="LOCAL-00188" summary="classes">
+      <option name="closed" value="true" />
+      <created>1739138084774</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1739138084774</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
