@@ -37,7 +37,7 @@ for num in range(0,nr_numbers):
 
 print(f"before shuffling {password}")
 random.shuffle(password)
-# print(f"after shuffling {password}")
+print(f"after shuffling {password}")
 
 #generate the password
 new_password=""
