@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,24 +42,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DataType.executor": "Run",
-    "Python.DataTypeExercise.executor": "Run",
-    "Python.Dictionaries.executor": "Run",
-    "Python.Lambda.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.Sets.executor": "Run",
-    "Python.Tuples.executor": "Run",
-    "Python.caeserCipher.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.passwordGenerator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypeExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caeserCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passwordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,30 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00172" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739121766179</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1739121766179</updated>
-    </task>
-    <task id="LOCAL-00173" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739121769134</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1739121769134</updated>
-    </task>
-    <task id="LOCAL-00174" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739121927268</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1739121927268</updated>
     </task>
     <task id="LOCAL-00175" summary="classes">
       <option name="closed" value="true" />
@@ -470,7 +444,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739398699882</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="classes">
+      <option name="closed" value="true" />
+      <created>1740955855601</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1740955855602</updated>
+    </task>
+    <task id="LOCAL-00222" summary="classes">
+      <option name="closed" value="true" />
+      <created>1740955861813</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1740955861813</updated>
+    </task>
+    <task id="LOCAL-00223" summary="classes">
+      <option name="closed" value="true" />
+      <created>1740955877039</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1740955877040</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
