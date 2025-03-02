@@ -18,7 +18,7 @@ class Course:
         if len(self.students) < self.max_students:
             self.students.append(student)
             return True
-        return False
+        print(False)
 
     def get_average_grade(self):
         value = 0
@@ -32,6 +32,7 @@ s3 = Student('Emeka',18,65)
 
 java_course = Course('Java',2)
 java_course.add_student(s1)
+java_course.add_student(s3)
 java_course.add_student(s2)
 
 print(java_course.students[0].name)
