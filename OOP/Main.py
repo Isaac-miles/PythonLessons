@@ -1,5 +1,3 @@
-from operator import truediv
-
 
 class Student:
     def __init__(self,name,age,grade):
@@ -16,8 +14,11 @@ class Course:
         self.max_students = max_students
         self.students = list
 
-    def add_student(self, student):
+    def add_student(self, student: Student):
         if len(self.students) < self.max_students:
             self.students.append(student)
             return True
         return False
+
+    def get_average_grade(self):
+        pass
