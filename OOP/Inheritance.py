@@ -8,6 +8,9 @@ class Bank:
     def get_details(self):
         print(f'name = {self.name} year = {self.year}')
 
+    def get_brand(self):
+        print('This is the central bank')
+
 class Wema(Bank):
 
     def get_brand(self):
