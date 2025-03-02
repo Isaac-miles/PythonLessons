@@ -21,7 +21,10 @@ class Course:
         return False
 
     def get_average_grade(self):
-        pass
+        value = 0
+        for student in self.students:
+            value += student.get_grade()
+        print(value/len(self.students))
 
 s1 = Student('Miles',19,95)
 s2 = Student('Enoch',21,75)
