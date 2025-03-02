@@ -35,3 +35,4 @@ java_course.add_student(s1)
 java_course.add_student(s2)
 
 print(java_course.students[0].name)
+java_course.get_average_grade()
