@@ -22,3 +22,11 @@ class Course:
 
     def get_average_grade(self):
         pass
+
+s1 = Student('Miles',19,95)
+s2 = Student('Enoch',21,75)
+s3 = Student('Emeka',18,65)
+
+java_course = Course('Java',2)
+java_course.add_student(s1)
+java_course.add_student(s2)
