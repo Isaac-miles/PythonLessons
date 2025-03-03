@@ -38,7 +38,6 @@ u = UBA('UBA',1992)
 u.get_details()
 u.get_brand()
 
-t = Titan('Titan',2010)
+t = Titan('Titan',2010,4000000)
 t.get_details()
 t.get_brand()
-t.get_details()
