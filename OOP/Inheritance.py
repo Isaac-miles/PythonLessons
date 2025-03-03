@@ -25,7 +25,10 @@ class Titan(Bank):
     def __init__(self,name, year,customer_base):
         super().__init__(name,year)
         self.customer_base = customer_base
-    pass
+
+    def get_details(self):
+        print(f'name = {self.name} year = {self.year} total number of customers = {self.customer_base}')
+
 
 w = Wema('wema',1986)
 w.get_details()
