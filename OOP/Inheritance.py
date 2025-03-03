@@ -21,6 +21,12 @@ class UBA(Bank):
     def get_brand(self):
         print("Our brand color is Red with over 10million customer base")
 
+class Titan(Bank):
+    def __init__(self,name, year,customer_base):
+        super().__init__(name,year)
+        self.customer_base = customer_base
+    pass
+
 w = Wema('wema',1986)
 w.get_details()
 w.get_brand()
@@ -28,3 +34,7 @@ w.get_brand()
 u = UBA('UBA',1992)
 u.get_details()
 u.get_brand()
+
+t = Titan('Titan',2010)
+t.get_details()
+t.get_brand()
