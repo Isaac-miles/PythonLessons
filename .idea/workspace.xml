@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Static_Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Static_Methods.py" afterDir="false" />
-    </list>
+    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,22 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00202" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739309643295</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1739309643296</updated>
-    </task>
-    <task id="LOCAL-00203" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739309649504</created>
-      <option name="number" value="00203" />
-      <option name="presentableId" value="LOCAL-00203" />
-      <option name="project" value="LOCAL" />
-      <updated>1739309649504</updated>
     </task>
     <task id="LOCAL-00204" summary="classes">
       <option name="closed" value="true" />
@@ -473,7 +454,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741293979306</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <task id="LOCAL-00251" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1741294275789</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1741294275789</updated>
+    </task>
+    <task id="LOCAL-00252" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1741294281352</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1741294281352</updated>
+    </task>
+    <option name="localTasksCounter" value="253" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
