@@ -31,3 +31,14 @@ def decrypt_message(original_text, shift_amount):
     print(encrypted_text)
 
 decrypt_message(original_text=text,shift_amount=shift)
+
+def caesar(original_text,shift_amount,encode_or_decode):
+    encrypted_text = ""
+    for letter in original_text:
+        if encode_or_decode == "decode":
+            shift_amount *= -1
+
+        shifted_position = alphabets.index(letter) + shift_amount
+        shifted_position %= len(alphabets)
+        encrypted_text += alphabets[shifted_position]
+    print(encrypted_text)
