@@ -22,3 +22,5 @@ def caesar(original_text,shift_amount,encode_or_decode):
         shifted_position %= len(alphabets)
         encrypted_text += alphabets[shifted_position]
     print(encrypted_text)
+
+caesar(original_text=text,shift_amount=shift,encode_or_decode=action)
