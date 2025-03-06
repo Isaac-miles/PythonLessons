@@ -7,20 +7,42 @@ chr(i): Converts the ASCII value back to its corresponding character.
 List comprehension: Creates a list of characters from 'A' to 'Z'."""
 
 alphabets = [chr(i) for i in range(ord('a'), ord('z')+1)]
-alphabets.append(' ')
+# alphabets.append(' ')
 action = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
 text = input("Enter the message you want to encrypt\n").lower()
 shift = int(input("enter the number of shift\n"))
 
-def caesar(original_text,shift_amount,encode_or_decode):
+def encrypt_message(original_text,shift_amount):
     encrypted_text = ""
     for letter in original_text:
-        if encode_or_decode == "decode":
-            shift_amount *= -1
-
-        shifted_position = alphabets.index(letter) + shift_amount
+        shifted_position = alphabets.index(letter) +shift_amount
         shifted_position %= len(alphabets)
         encrypted_text += alphabets[shifted_position]
     print(encrypted_text)
 
-caesar(original_text=text,shift_amount=shift,encode_or_decode=action)
+# encrypt_message(original_text=text,shift_amount=shift)
+
+def decrypt_message(original_text, shift_amount):
+    encrypted_text = ""
+    for letter in original_text:
+        shifted_position = alphabets.index(letter) - shift_amount
+        shifted_position %= len(alphabets)
+        encrypted_text += alphabets[shifted_position]
+    print(encrypted_text)
+
+# decrypt_message(original_text=text,shift_amount=shift)
+
+def caesar(original_text,shift_amount,encode_or_decode):
+    encrypted_text = ""
+    for letter in original_text:
+        #when a user enters special char or space
+        if letter not in alphabets:
+            encrypted_text += letter
+        else:
+            if encode_or_decode == "decode":
+                shift_amount *= -1
+
+            shifted_position = alphabets.index(letter) + shift_amount
+            shifted_position %= len(alphabets)
+            encrypted_text += alphabets[shifted_position]
+    print(f"{encode_or_decode}d is {encrypted_text}")
