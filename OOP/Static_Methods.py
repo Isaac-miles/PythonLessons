@@ -19,3 +19,8 @@ class Person:
 p1 = Person("tim")
 p2 = Person("jill")
 
+class Math:
+
+    @staticmethod
+    def add5(x):
+        return  x + 5
