@@ -5,31 +5,8 @@ ord('Z'): Returns the ASCII value of 'Z' (which is 90).
 chr(i): Converts the ASCII value back to its corresponding character.
 
 List comprehension: Creates a list of characters from 'A' to 'Z'."""
-from operator import truediv
 
 alphabets = [chr(i) for i in range(ord('a'), ord('z')+1)]
-# alphabets.append(' ')
-
-
-def encrypt_message(original_text,shift_amount):
-    encrypted_text = ""
-    for letter in original_text:
-        shifted_position = alphabets.index(letter) +shift_amount
-        shifted_position %= len(alphabets)
-        encrypted_text += alphabets[shifted_position]
-    print(encrypted_text)
-
-# encrypt_message(original_text=text,shift_amount=shift)
-
-def decrypt_message(original_text, shift_amount):
-    encrypted_text = ""
-    for letter in original_text:
-        shifted_position = alphabets.index(letter) - shift_amount
-        shifted_position %= len(alphabets)
-        encrypted_text += alphabets[shifted_position]
-    print(encrypted_text)
-
-# decrypt_message(original_text=text,shift_amount=shift)
 
 def caesar(original_text,shift_amount,encode_or_decode):
     encrypted_text = ""
