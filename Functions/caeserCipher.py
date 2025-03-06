@@ -9,9 +9,7 @@ from operator import truediv
 
 alphabets = [chr(i) for i in range(ord('a'), ord('z')+1)]
 # alphabets.append(' ')
-action = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
-text = input("Enter the message you want to encrypt\n").lower()
-shift = int(input("enter the number of shift\n"))
+
 
 def encrypt_message(original_text,shift_amount):
     encrypted_text = ""
@@ -35,14 +33,14 @@ def decrypt_message(original_text, shift_amount):
 
 def caesar(original_text,shift_amount,encode_or_decode):
     encrypted_text = ""
+    if encode_or_decode == "decode":
+        shift_amount *= -1
+
     for letter in original_text:
         #when a user enters special char or space
         if letter not in alphabets:
             encrypted_text += letter
         else:
-            if encode_or_decode == "decode":
-                shift_amount *= -1
-
             shifted_position = alphabets.index(letter) + shift_amount
             shifted_position %= len(alphabets)
             encrypted_text += alphabets[shifted_position]
@@ -51,7 +49,13 @@ def caesar(original_text,shift_amount,encode_or_decode):
 should_continue = True
 
 while should_continue:
+    action = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
+    text = input("Enter the message you want to encrypt\n").lower()
+    shift = int(input("enter the number of shift\n"))
+
     caesar(original_text=text,shift_amount=shift,encode_or_decode=action)
 
-    input("Type 'yes' if you want to go again. Otherwise,type 'no'.").lower()
-
+    restart = input("Type 'yes' if you want to go again. Otherwise,type 'no'.\n").lower()
+    if restart == "no":
+        should_continue = False
+        print("Good bye")
