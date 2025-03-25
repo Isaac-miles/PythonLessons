@@ -32,3 +32,27 @@ print(new__list)
 sort_Fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 sort_Fruits.sort(reverse = True)
 print(sort_Fruits)
+
+import math
+
+# Fixed values
+C = 50
+H = 30
+
+# Taking input from the user
+D_values = input("Enter comma-separated values for D: ").split(",")
+
+# Print D_values to see its structure
+print("D_values after splitting:", D_values)
+
+# Initialize an empty list for results
+Q_values = []
+
+# Loop through each D, compute Q, and store in the list
+for D in D_values:
+    D_int = int(D)  # Convert string to integer
+    Q = int(math.sqrt((2 * C * D_int) / H))  # Compute Q
+    Q_values.append(str(Q))  # Store result as string
+
+# Print the final result as a comma-separated string
+print(",".join(Q_values))
