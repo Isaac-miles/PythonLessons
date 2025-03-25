@@ -9,6 +9,7 @@ List comprehension: Creates a list of characters from 'A' to 'Z'."""
 alphabets = [chr(i) for i in range(ord('a'), ord('z')+1)]
 
 def caesar(original_text,shift_amount,encode_or_decode):
+    """This encode and decodes the input based on the user's prompt"""
     encrypted_text = ""
     if encode_or_decode == "decode":
         shift_amount *= -1
