@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects">
-      <change afterPath="$PROJECT_DIR$/HomeWork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/caeserCipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/caeserCipher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,29 +44,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DataType.executor": "Run",
-    "Python.DataTypeExercise.executor": "Run",
-    "Python.Dictionaries.executor": "Run",
-    "Python.HomeWork.executor": "Run",
-    "Python.Inheritance.executor": "Run",
-    "Python.Lambda.executor": "Run",
-    "Python.List.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.Sets.executor": "Run",
-    "Python.Static_Methods.executor": "Run",
-    "Python.Tuples.executor": "Run",
-    "Python.caeserCipher.executor": "Run",
-    "Python.exercise.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.passwordGenerator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypeExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HomeWork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Static_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caeserCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passwordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,38 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00217" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739398313527</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1739398313527</updated>
-    </task>
-    <task id="LOCAL-00218" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739398317355</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1739398317355</updated>
-    </task>
-    <task id="LOCAL-00219" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739398693445</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1739398693445</updated>
-    </task>
-    <task id="LOCAL-00220" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739398699881</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1739398699882</updated>
     </task>
     <task id="LOCAL-00221" summary="classes">
       <option name="closed" value="true" />
@@ -478,7 +443,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741817421485</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1742911592750</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1742911592751</updated>
+    </task>
+    <task id="LOCAL-00267" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1742911596214</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1742911596214</updated>
+    </task>
+    <task id="LOCAL-00268" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1742911598761</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1742911598761</updated>
+    </task>
+    <task id="LOCAL-00269" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1742911601466</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1742911601466</updated>
+    </task>
+    <option name="localTasksCounter" value="270" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
