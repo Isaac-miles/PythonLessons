@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects">
+      <change afterPath="$PROJECT_DIR$/HomeWork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/caeserCipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/caeserCipher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +52,10 @@
     "Python.DataType.executor": "Run",
     "Python.DataTypeExercise.executor": "Run",
     "Python.Dictionaries.executor": "Run",
+    "Python.HomeWork.executor": "Run",
     "Python.Inheritance.executor": "Run",
     "Python.Lambda.executor": "Run",
+    "Python.List.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Main.executor": "Run",
     "Python.Sets.executor": "Run",
@@ -80,14 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00216" summary="classes">
-      <option name="closed" value="true" />
-      <created>1739398308032</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1739398308032</updated>
     </task>
     <task id="LOCAL-00217" summary="classes">
       <option name="closed" value="true" />
@@ -473,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741303297434</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1741817421485</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1741817421485</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
