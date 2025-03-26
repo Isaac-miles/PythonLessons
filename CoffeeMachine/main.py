@@ -59,4 +59,5 @@ while dispense_on:
         print(f"Money:${profit}")
     else:
         drink = MENU[choice]
-        is_resource_sufficient(drink['ingredients'])
+        if is_resource_sufficient(drink['ingredients']):
+            payment = process_coins()
