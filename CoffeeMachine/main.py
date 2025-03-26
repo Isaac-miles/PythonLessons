@@ -61,7 +61,6 @@ def is_transaction_successful(money_received, drink_cost):
         return  False
 
 
-
 dispense_on = True
 while dispense_on:
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
@@ -76,3 +75,4 @@ while dispense_on:
         drink = MENU[choice]
         if is_resource_sufficient(drink['ingredients']):
             payment = process_coins()
+            is_transaction_successful(payment,drink['cost'])
