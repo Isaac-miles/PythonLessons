@@ -49,7 +49,17 @@ def process_coins():
     return  total
 
 def is_transaction_successful(money_received, drink_cost):
-    """Returns true when the payment is acceptec, or false if the money is insufficient"""
+    """Returns true when the payment is accepted, or false if the money is insufficient"""
+    if money_received >= drink_cost:
+        global profit
+        profit += drink_cost
+        return True
+    else:
+        print("Sorry that's not enough money. Money refunded.")
+        return  False
+
+
+
 dispense_on = True
 while dispense_on:
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
