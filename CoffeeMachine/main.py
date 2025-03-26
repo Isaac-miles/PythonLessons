@@ -36,7 +36,7 @@ while dispense_on:
     if choice == "off":
         dispense_on = False
     elif choice == "report":
-        print(f"Coffee:{resources['coffee']}")
-        print(f"water:{resources['water']}")
-        print(f"Milk:{resources['milk']}")
-        print(f"Money:{profit}")
+        print(f"Coffee:{resources['coffee']}g")
+        print(f"water:{resources['water']}ml")
+        print(f"Milk:{resources['milk']}ml")
+        print(f"Money:${profit}")
