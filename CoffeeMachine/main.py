@@ -47,6 +47,9 @@ def process_coins():
     total += int(input("How many nickles?: ")) * 0.05
     total += int(input("How many pennies?: ")) * 0.01
     return  total
+
+def is_transaction_successful(money_received, drink_cost):
+    """Returns true when the payment is acceptec, or false if the money is insufficient"""
 dispense_on = True
 while dispense_on:
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
