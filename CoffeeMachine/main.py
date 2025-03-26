@@ -32,6 +32,7 @@ resources = {
 profit = 0
 
 def is_resource_sufficient(order_ingredients):
+    """checks the available resources left in the machine"""
     for item in order_ingredients:
         if order_ingredients[item] >= resources[item]:
             print(f"Sorry there is not enough {item}")
@@ -39,12 +40,13 @@ def is_resource_sufficient(order_ingredients):
     return True
 
 def process_coins():
+    """returns the total calculated coins inserted into the machine"""
     print("Please insert coins. ")
     total = int(input("how many quarters?: ")) * 0.25
-    total = int(input("How many dimes?: ")) * 0.1
-    total = int(input("How many nickles?: ")) * 0.05
-    total = int(input("How many pennies?: ")) * 0.01
-
+    total += int(input("How many dimes?: ")) * 0.1
+    total += int(input("How many nickles?: ")) * 0.05
+    total += int(input("How many pennies?: ")) * 0.01
+    return  total
 dispense_on = True
 while dispense_on:
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
