@@ -52,6 +52,7 @@ def is_transaction_successful(money_received, drink_cost):
     """Returns true when the payment is accepted, or false if the money is insufficient"""
     if money_received >= drink_cost:
         change = round(money_received - drink_cost, 2)
+        print(f"Here's the change ${change}")
         global profit
         profit += drink_cost
         return True
