@@ -35,3 +35,8 @@ while dispense_on:
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
     if choice == "off":
         dispense_on = False
+    elif choice == "report":
+        print(f"Coffee:{resources['coffee']}")
+        print(f"water:{resources['water']}")
+        print(f"Milk:{resources['milk']}")
+        print(f"Money:{profit}")
