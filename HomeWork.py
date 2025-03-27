@@ -1,4 +1,5 @@
 import random
+from prettytable import PrettyTable
 
 def add(n,m):
     return n+m
@@ -15,4 +16,8 @@ def mutate_list(a_list):
 
 mutate_list([1,2,3,4,5])
 
-
+table = PrettyTable()
+table.add_column("Pokemon Name", ["Pikachu","Squirtle","Charmander"])
+table.add_column("Type",["Electric","Water","Fire"])
+# table.align = "r"
+print(table)
