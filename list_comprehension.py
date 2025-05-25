@@ -1,4 +1,6 @@
 #create a list of squares
+from os import access
+
 squares = []
 for x in range(10):
     squares.append(x**2)
@@ -23,11 +25,40 @@ for x in [1,2,3]:
             comb_list_1.append((x,y))
 # print(comb_list_1)
 
-vec = [[1,2,3,4],[5,6,7],[8,9,10]]
+vector = [[1,2,3,4],[5,6,7],[8,9,10]]
 #flatten this list
-flat = [num for elem in vec for num in elem]
+flat = [num for list_item in vector for num in list_item]
 # print(flat)
 
-for num in vec:
-    for el in num:
-        print(el)
+numbers = []
+for list_item in vector:
+    for num in list_item:
+        numbers.append(num)
+    # print(numbers)
+
+matrix = [
+    [1,2,3,4],
+    [5,6,7,8],
+    [9,10,11,12]
+]
+#the following list comprehension will transpose rows and columns:
+num_columns = len(matrix[0]) if matrix else 0
+transpose_matrix = [[row[i] for row in matrix] for i in range(num_columns)]
+# print(transpose_matrix)
+
+
+transpose_matrix_1 =[]
+for i in range(num_columns):
+    column = []
+    for row in matrix:
+        column.append(row[i])
+    transpose_matrix_1.append(column)
+# print(transpose_matrix_1)
+
+transpose_matrix_1 =[]
+for i in range(num_columns):
+    transpose_matrix_1.append([row[i] for row in matrix])
+# print(transpose_matrix_1)
+
+using_zip = list(zip(*matrix))
+print(using_zip)
