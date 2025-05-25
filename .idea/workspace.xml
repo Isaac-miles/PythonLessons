@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects">
-      <change afterPath="$PROJECT_DIR$/FilesDirectories/ReadWrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilesDirectories/my_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeveragingAI/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_coffee_machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop_coffee_machine/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00242" summary="classes and Objects">
-      <option name="closed" value="true" />
-      <created>1741019737583</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1741019737583</updated>
     </task>
     <task id="LOCAL-00243" summary="classes and Objects">
       <option name="closed" value="true" />
@@ -485,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744670291836</updated>
     </task>
-    <option name="localTasksCounter" value="291" />
+    <task id="LOCAL-00291" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1748208853735</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1748208853735</updated>
+    </task>
+    <option name="localTasksCounter" value="292" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
