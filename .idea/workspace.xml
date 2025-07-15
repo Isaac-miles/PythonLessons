@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects">
-      <change afterPath="$PROJECT_DIR$/WorkingWithPandas/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b331398-0b44-4050-97b4-52cbaeb20e86" name="Changes" comment="classes and Objects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,38 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736551253322</updated>
-    </task>
-    <task id="LOCAL-00244" summary="classes and Objects">
-      <option name="closed" value="true" />
-      <created>1741019901383</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1741019901383</updated>
-    </task>
-    <task id="LOCAL-00245" summary="classes and Objects">
-      <option name="closed" value="true" />
-      <created>1741020390783</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1741020390784</updated>
-    </task>
-    <task id="LOCAL-00246" summary="classes and Objects">
-      <option name="closed" value="true" />
-      <created>1741020647761</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1741020647761</updated>
-    </task>
-    <task id="LOCAL-00247" summary="classes and Objects">
-      <option name="closed" value="true" />
-      <created>1741020651056</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1741020651056</updated>
     </task>
     <task id="LOCAL-00248" summary="classes and Objects">
       <option name="closed" value="true" />
@@ -486,7 +451,39 @@
       <option name="project" value="LOCAL" />
       <updated>1748214538093</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1752617448562</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1752617448562</updated>
+    </task>
+    <task id="LOCAL-00294" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1752617450927</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1752617450927</updated>
+    </task>
+    <task id="LOCAL-00295" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1752617453787</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1752617453787</updated>
+    </task>
+    <task id="LOCAL-00296" summary="classes and Objects">
+      <option name="closed" value="true" />
+      <created>1752617588172</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1752617588172</updated>
+    </task>
+    <option name="localTasksCounter" value="297" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
